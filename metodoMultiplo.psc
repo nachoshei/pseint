@@ -13,4 +13,3 @@ SubAlgoritmo resultado=calcularMultiplo(num1, num2)
 		resultado = Verdadero
 	FinSi
 FinSubAlgoritmo
-	

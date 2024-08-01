@@ -20,4 +20,4 @@ FinSubAlgoritmo
 SubAlgoritmo sonMultiplos=esMultiplo(numro1,divisor)
 	Definir sonMultiples Como Logico
 	sonMultiplos=((numro1 mod divisor)=0)
-FinSubAlgoritmo
+FinSubAlgoritmo    
